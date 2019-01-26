@@ -1,2 +1,4 @@
 # hello-world
-Just checking around
+
+Hello sunshine!
+Let's do this ...
